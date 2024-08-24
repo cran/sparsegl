@@ -14,7 +14,8 @@ knitr::opts_chunk$set(
 ## ----eval = FALSE-------------------------------------------------------------
 #  remotes::install_github(
 #    "dajmcdon/sparsegl",
-#    build_vignettes = TRUE, dependencies = TRUE
+#    build_vignettes = TRUE,
+#    dependencies = TRUE
 #  )
 
 ## -----------------------------------------------------------------------------
